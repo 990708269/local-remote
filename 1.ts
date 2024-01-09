@@ -1,0 +1,1 @@
+console.log(`output->'ts-1'`,'ts-1')
